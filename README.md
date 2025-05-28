@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 
+
+## My name is Camilla and i am studying Frontend Development at Noroff school of technology.
+
+### I am soon finished my fisrt of a two year programme. It has been a very challenging but fantastic experience, that i have enjoyed a lot. 
+
+### I am currently working on my portfolio 1 assignment, which is the the one for this year. 
 
 <!--
 **camiP89/camiP89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
