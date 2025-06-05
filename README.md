@@ -1,19 +1,24 @@
-## Hi there 
+## Hi there!
 
-### My name is Camilla and i am studying Frontend Development at Noroff school of technology.
+### I'm Camilla - a Frontend Development student at Noroff School of Technology.
 
-#### I am soon finished my first of a two year programme. It has been a very challenging but fantastic experience, that i have enjoyed a lot. 
+I'm currently wrapping up the first year of my two-year program, and it's been a challenging yet incredibly rewarding journey. I've grown a lot through hands-on projects and have genuinely enjoyed the experience.
  
-- 🔭 I’m currently working on my Portfolio 1 assignment. The last one for this year.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 📫 How to reach me: campug04041@stud.noroff.no
+- 🔭 Finalizing my Portfolio 1 project — the last assignment of the year!
+- 🌱 Continuously improving my skills in HTML, CSS, and JavaScript.
+- 📫 How to reach me: [My Email address]campug04041@stud.noroff.no
 
-### Check out my portfolio where i have 3 projects i have completed in my first year at Noroff.
-https://portfolio-1-cami.netlify.app
+### Check out my work
+
+Explore some of the projects i've completed during my first year at Noroff.
+
+### Visit my Portfolio
+
+[A link to my Portfolio]https://portfolio-1-cami.netlify.app
 
 ### Languages and Tools: 
-Figma
-HTML
-CSS
-JavaScript 
+- Figma
+- HTML
+- CSS
+- JavaScript 
 
